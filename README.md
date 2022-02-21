@@ -28,11 +28,15 @@ When using annotated VCF files, some variants can hit various annotations for a 
 
 **To be considered**  
 
-The input option is the only one that is mandatory. The file format is VCF v4.2.  
+The input option is the only one that is mandatory. The file format is VCF v4.2. 
+ 
 When parsing, the fields we want to extract from the VCF file **MUST** be between '%' symbols for the program to recognize them. Example string: '%CHROM%:%POS%\_%REF%\_%ALT%\t%ID%\n'.
 Remember to use delimiters when using the parser (\n is crucial if we want the variants to be in different lines).  
+
 If we are not using a parsing string, the output will contain all the fields separated by tabs (\t). The advantage of this is that the program will divide the different INFO fields for us to access it easily.  
+
 When adding the Genotypes flag, it will allow to include the samples genotypes in the output file, but if we are using a parsing string, it will only include the selected samples, as if it were a field.  
+
 When using an annotated VCF file remember to check the annotation field. It usually is 'CSQ' for VEP annotated files and 'ANN' for SnpEff annotated files. It is recommended to use VEP, since the testing was performed using VEP annotated VCFs.  
 
 ### Future ideas  
