@@ -6,7 +6,7 @@
 #                           VCF parser                          #
 #                                                               #
 #       Tool for parsing VCF files.                             #
-#       This tool lets convert de information in the            #
+#       This tool allows the convert the information in the     #
 #       VCF file as a tab delimited file, or extract            #
 #       the desired information passed as an argument           #
 #                                                               #
