@@ -26,7 +26,8 @@ When using annotated VCF files, some variants can hit various annotations for a 
 - Genotypes (-g, --genotypes): If present, this option will mantain the genotypes in the output file, or it will allow to subset the samples we want if using the parsing option. Doesn't require any argument.
 - List (-l, --list): Print all the available info present in the VCF file. Option used alone, since the program exits after printing the available fields.
 
-**To be considered**
+**To be considered**  
+
 The input option is the only one that is mandatory. The file format is VCF v4.2.  
 When parsing, the fields we want to extract from the VCF file **MUST** be between '%' symbols for the program to recognize them. Example string: '%CHROM%:%POS%\_%REF%\_%ALT%\t%ID%\n'.
 Remember to use delimiters when using the parser (\n is crucial if we want the variants to be in different lines).  
