@@ -1,0 +1,5 @@
+python3 vcf-parser.py -i testing_variants.vcf -l > list_of_fields.txt
+python3 vcf-parser.py -i testing_variants.vcf -a CSQ -l > list_of_fields_wann.txt
+python3 vcf-parser.py -i testing_variants.vcf -o whole_vars.txt
+python3 vcf-parser.py -i testing_variants.vcf -g -o whole_vars_wgeno.txt
+python3 vcf-parser.py -i testing_variants.vcf -a CSQ -p '%CHROM%:%POS%_%REF%/%ALT%\t%ID%\t%SYMBOL%\t%Consequence%\t%gnomAD_NFE_AF%\t%CLIN_SIG%\t%CADD_PHRED%\n' -o summary_example.txt

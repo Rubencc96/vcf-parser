@@ -1,0 +1,296 @@
+CHROM:POS_REF/ALT	ID	SYMBOL	Consequence	gnomAD_NFE_AF	CLIN_SIG	CADD_PHRED
+chr1:20633892_A/T	rs148871409	PINK1	missense_variant	0.05409	benign	22.0
+chr1:20645618_G/A	rs3738136	PINK1	missense_variant	0.04509	benign	11.75
+chr1:20648528_G/A	rs45515602	PINK1	missense_variant	0.0002553	likely_benign&uncertain_significance	9.650
+chr1:20649169_G/A	rs115477764	PINK1	missense_variant	0.0001499	benign	4.910
+chr1:20650507_A/C	rs1043424	PINK1	missense_variant	0.2776	benign/likely_benign&benign&likely_benign	17.27
+chr1:207506725_C/T	rs11587944	CR1	missense_variant	0.01082		11.80
+chr1:207506809_A/G	rs183171969	CR1	missense_variant	0.0004785		0.169
+chr1:207567850_A/G	rs368350236	CR1	missense_variant	5.325e-05		15.42
+chr1:207577907_T/C	rs200111726	CR1	missense_variant	0.000195		0.001
+chr1:207577915_A/G	rs202070239	CR1	missense_variant	0.0002218		0.665
+chr1:207580276_A/G	rs2274567	CR1	missense_variant	0.1913		14.59
+chr1:207584793_G/A	.	CR1	missense_variant			22.8
+chr1:207587427_A/G	rs61734514	CR1	missense_variant	0.02497		9.710
+chr1:207587428_C/T	rs3737002	CR1	missense_variant	0.2683		5.602
+chr1:207587485_G/A	rs373049995	CR1	missense_variant	0.0001505		0.349
+chr1:207609362_A/G	rs17259045	CR1	missense_variant	0.1		5.162
+chr1:207609424_G/A	rs41274768	CR1	missense_variant	0.02782		4.746
+chr1:207609511_A/G	rs17047660	CR1	missense_variant	0.001037		18.56
+chr1:207609544_A/G	rs17047661	CR1	missense_variant	0.003016		11.41
+chr1:207609571_A/T	rs4844609	CR1	missense_variant	0.9759		0.269
+chr1:207609586_A/G	rs6691117	CR1	missense_variant	0.2204		5.670
+chr1:207611754_G/T	rs202148801	CR1	missense_variant	0.003168		24.2
+chr1:207614418_G/A	rs200692346	CR1	missense_variant	0.001115		24.8
+chr1:207616743_C/G	rs3811381	CR1	missense_variant	0.1892		0.032
+chr1:207618089_A/G	rs41274770	CR1	missense_variant	0.02227		17.13
+chr2:9490412_G/A	rs55796712	ADAM17	missense_variant	0.01699		9.843
+chr2:9492963_C/T	rs61754177	ADAM17	missense_variant	0.008969	benign	25.7
+chr2:9527801_T/C	rs2230818	ADAM17	missense_variant	0.0005501	benign	11.45
+chr2:9543235_T/C	rs61754178	ADAM17	missense_variant	0.005542	likely_benign	21.9
+chr2:37253247_G/C	rs754218304	PRKD3	missense_variant	4.41e-05		23.8
+chr2:37274670_T/C	rs145739051	PRKD3	missense_variant	0.000247		5.932
+chr2:37316401_T/C	rs11896614	PRKD3	missense_variant	0.04757		21.3
+chr2:127050470_T/C	rs138047593	BIN1	missense_variant	0.01605	benign&conflicting_interpretations_of_pathogenicity	27.7
+chr2:127059120_G/A	rs754707833	BIN1	missense_variant	2.148e-05	uncertain_significance	25.9
+chr2:202899585_T/C	.	WDR12	missense_variant			23.6
+chr3:155118765_G/C	rs147564881	MME	missense_variant	0.002081	likely_benign	26.1
+chr3:155144383_C/T	rs149905705	MME	stop_gained	7.068e-05	pathogenic	37
+chr3:155168594_A/G	rs181745819	MME	missense_variant	1.766e-05		23.9
+chr4:987896_C/G	rs148775298	IDUA	missense_variant	0.004823	uncertain_significance&_other&likely_benign&_other&benign/likely_benign&other	15.01
+chr4:1000626_G/A	rs3755955	IDUA	missense_variant	0.159	benign	0.973
+chr4:1002377_G/A	rs6831280	IDUA	missense_variant	0.16	benign	2.762
+chr4:1002902_G/A	rs73066479	IDUA	missense_variant	0.1827	benign	9.333
+chr4:3074923_AGC/A	rs751281707	HTT	frameshift_variant	0.009732		
+chr4:3074966_G/GCCT	.	HTT	inframe_insertion			
+chr4:3116210_G/A	rs773416184	HTT	missense_variant	1.765e-05		28.2
+chr4:3122937_G/T	.	HTT	splice_donor_variant			33
+chr4:3131386_G/A	rs34389685	HTT	missense_variant	0.003462		23.6
+chr4:3135947_G/A	rs363075	HTT	missense_variant	0.06027		26.9
+chr4:3146843_G/A	rs35892913	HTT	missense_variant	0.06198		11.56
+chr4:3146926_T/G	rs1143646	HTT	missense_variant	0.05093		8.977
+chr4:3187783_T/C	rs150003356	HTT	missense_variant	0.004547		19.85
+chr4:3187820_C/A	rs363125	HTT	missense_variant	0.1118		0.003
+chr4:3206913_G/A	rs201159417	HTT	missense_variant	0.0002119		25.7
+chr4:3214108_T/C	rs362331	HTT	missense_variant	0.4238		21.5
+chr4:3214123_A/T	rs1298588369	HTT	missense_variant	1.047e-05		18.64
+chr4:3215167_A/G	rs186882443	HTT	missense_variant	0.0009269		5.212
+chr4:3233253_G/A	rs362272	HTT	missense_variant	0.301		1.340
+chr4:3238950_G/A	rs1316267315	HTT	missense_variant	0		24.4
+chr4:10584947_G/A	rs61759824	CLNK	missense_variant	0.05696	benign	21.5
+chr5:151033636_G/C	.	TNIP1	missense_variant			24.5
+chr5:151056861_C/T	rs52817781	TNIP1	missense_variant	0.03156		0.194
+chr5:151056942_G/C	rs2233290	TNIP1	missense_variant	0.09039		22.6
+chr6:41030401_C/T	rs115953314	UNC5CL	missense_variant	0.002656		19.81
+chr6:41030428_T/C	rs742493	UNC5CL	missense_variant	0.1176		20.9
+chr6:41030430_C/T	rs759752192	UNC5CL	missense_variant	8.791e-06		26.0
+chr6:41033992_C/T	rs148670174	UNC5CL	missense_variant	0.0002202		20.2
+chr6:41034905_G/A	rs537774250	UNC5CL	missense_variant	8.791e-06		0.465
+chr6:41194633_T/C	rs145455750	TREML2	missense_variant	0.002829		11.25
+chr6:41194780_T/C	rs3747742	TREML2	missense_variant	0.299		10.09
+chr6:41194824_G/C	rs61734887	TREML2	missense_variant	0.04598		19.64
+chr6:41198180_C/T	rs762890750	TREML2	missense_variant	2.642e-05		19.07
+chr6:41198337_C/T	rs35512890	TREML2	missense_variant	0.002572		0.037
+chr6:41198411_A/G	rs62396355	TREML2	missense_variant	0.09692		3.180
+chr6:41198416_G/C	rs77704965	TREML2	missense_variant	0.06616	benign	0.157
+chr6:41198417_T/C	rs41273772	TREML2	missense_variant	0.06783		15.43
+chr6:114057558_A/T	rs17793043	HS3ST5	missense_variant	0.01049		22.8
+chr6:114057958_G/A	rs144094472	HS3ST5	missense_variant	0.002092		24.2
+chr6:114062761_C/T	rs144143119	HS3ST5	missense_variant	0.0001848		25.9
+chr6:161350187_G/A	rs149953814	PRKN	missense_variant	0.002547	conflicting_interpretations_of_pathogenicity&benign	28.1
+chr6:161360169_G/A	rs55830907	PRKN	missense_variant	0.002373	uncertain_significance&conflicting_interpretations_of_pathogenicity	25.1
+chr6:161360193_C/T	rs1801334	PRKN	missense_variant	0.03906	benign	22.9
+chr6:161386823_C/G	rs1801582	PRKN	missense_variant	0.1614	benign	4.448
+chr6:162054135_T/G	rs9456735	PRKN	missense_variant	0.000264	benign	20.7
+chr6:162201165_C/T	rs1801474	PRKN	missense_variant	0.01833	benign	14.39
+chr7:8127996_C/T	.	ICA1	missense_variant			10.50
+chr7:8218448_G/A	.	ICA1	missense_variant			20.9
+chr7:12224345_G/A	rs147889591	TMEM106B	missense_variant	0.01966		19.49
+chr7:12229791_C/G	rs3173615	TMEM106B	missense_variant	0.4111		18.38
+chr7:37850665_G/A	rs2722372	NME8	missense_variant	0.2426	benign	16.30
+chr7:37864368_A/C	rs763491394	NME8	missense_variant			18.78
+chr7:37884315_G/A	rs62001869	NME8	missense_variant	0.01484	benign	0.578
+chr7:37884321_T/C	rs62001870	NME8	missense_variant	0.05748	benign	24.2
+chr7:37894544_T/C	rs56128139	NME8	missense_variant	0.3526	benign	7.698
+chr7:37948932_C/G	rs149095633	EPDR1	missense_variant	6.158e-05		23.5
+chr7:100407242_G/T	rs187521454	ZCWPW1	missense_variant	7.96e-05		23.9
+chr7:100416449_C/A	rs6957339	ZCWPW1	missense_variant	0.0004615		15.85
+chr7:100417088_T/C	rs6465770	ZCWPW1	missense_variant	0.06652		16.73
+chr7:100419158_T/C	rs141450215	ZCWPW1	missense_variant	0.005078		32
+chr7:100419682_T/A	.	ZCWPW1	missense_variant			14.86
+chr7:100488257_C/T	rs150028591	NYAP1	missense_variant	0.003686		24.6
+chr7:100489367_G/T	.	NYAP1	missense_variant			23.4
+chr7:143394220_G/T	rs767146354	EPHA1	missense_variant	7.04e-05		26.8
+chr7:143394949_C/T	rs553708553	EPHA1	missense_variant	4.399e-05		26.5
+chr7:143395176_G/A	rs34372369	EPHA1	missense_variant	0.05706		25.9
+chr7:143398060_C/T	rs11768549	EPHA1	missense_variant	0.0181		17.45
+chr7:143398927_C/T	rs201581948	EPHA1	missense_variant	0.0004642		0.084
+chr7:143400007_A/G	rs4725617	EPHA1	missense_variant	0.9193		15.89
+chr7:143401493_C/A	rs148653512	EPHA1	missense_variant	8.839e-05		27.0
+chr8:11847108_T/G	rs114308907	CTSB	missense_variant	0.001741	likely_benign	27.3
+chr8:11847141_C/T	rs17573	CTSB	missense_variant	0.0009411		0.001
+chr8:11852665_T/C	rs1803250	CTSB	missense_variant	0.134		22.8
+chr8:11853379_G/C	rs12338	CTSB	missense_variant	0.383		18.01
+chr8:11853402_C/T	rs151331859	CTSB	missense_variant	0.0001057		9.675
+chr8:27430997_C/A	rs61738530	PTK2B	missense_variant	0.004258	likely_benign	20.3
+chr8:27433522_C/G	rs56175011	PTK2B	missense_variant	0.003202	likely_benign	0.101
+chr8:27451068_A/C	rs751019	PTK2B	missense_variant	0.467		18.91
+chr8:144099089_G/A	rs954007413	SHARPIN	missense_variant	0		20.5
+chr8:144099319_G/A	rs34674752	SHARPIN	missense_variant	0.04689	benign	21.9
+chr8:144099354_C/G	rs11541804	SHARPIN	missense_variant	0.08023		23.2
+chr8:144100007_G/A	rs11541805	SHARPIN	missense_variant	0.03976		16.66
+chr9:104800523_T/C	rs2230808	ABCA1	missense_variant	0.7604	benign	22.6
+chr9:104817351_C/G	rs33918808	ABCA1	missense_variant	0.02909	benign	16.11
+chr9:104820001_G/A	rs775863046	ABCA1	missense_variant	4.395e-05		17.87
+chr9:104824472_T/C	rs2066714	ABCA1	missense_variant	0.1299	benign	1.018
+chr9:104825752_C/T	rs2066715	ABCA1	missense_variant	0.06031	benign	13.37
+chr9:104830934_A/G	rs574002247	ABCA1	missense_variant	1.758e-05		24.7
+chr9:104831663_C/T	.	ABCA1	missense_variant			26.7
+chr9:104858586_C/T	rs2230806	ABCA1	missense_variant	0.2742	benign	10.55
+chr10:11462898_A/C	rs1027751830	USP6NL	missense_variant	8.901e-06		14.85
+chr10:11463744_G/A	rs113611342	USP6NL	missense_variant	0.02571		15.62
+chr10:11747383_G/A	rs4750090	ECHDC3	missense_variant	0.9981		22.7
+chr10:11755468_G/A	rs7910140	ECHDC3	missense_variant	0.999		13.27
+chr10:11755501_G/A	rs35986488	ECHDC3	missense_variant	0.08539		31
+chr10:60042719_C/T	rs141939315	ANK3	missense_variant	0.006877	likely_benign&benign	24.6
+chr10:60071513_T/C	rs10821668	ANK3	missense_variant	0.2693	likely_benign	18.05
+chr10:60071532_T/C	rs28932171	ANK3	missense_variant	0.1095	likely_benign	16.88
+chr10:60071540_A/G	rs181031970	ANK3	missense_variant	3.521e-05		16.22
+chr10:60071744_G/C	rs74153183	ANK3	missense_variant	0.001217	likely_benign	14.64
+chr10:60071893_C/G	rs41274672	ANK3	missense_variant	0.01201	benign	0.003
+chr10:60072226_G/T	rs11599164	ANK3	missense_variant	0.1091	likely_benign	22.4
+chr10:60072347_C/T	rs139022925	ANK3	missense_variant	0.002202	uncertain_significance	16.61
+chr10:60073412_G/A	rs140741466	ANK3	missense_variant	0.0009168	uncertain_significance&conflicting_interpretations_of_pathogenicity	21.8
+chr10:60073656_A/G	rs148904927	ANK3	missense_variant	0.006081	benign&likely_benign	26.4
+chr10:60073926_C/T	rs140463162	ANK3	missense_variant	0.002619	benign/likely_benign&likely_benign	25.0
+chr10:60075068_C/T	rs1465089476	ANK3	missense_variant			13.02
+chr10:60075299_G/A	rs117475706	ANK3	missense_variant	0.004487	uncertain_significance&likely_benign	22.9
+chr10:60080569_T/C	rs139982397	ANK3	missense_variant	0.000874	uncertain_significance	31
+chr10:60279130_G/A	.	ANK3	missense_variant			29.2
+chr10:96223879_C/A	rs148612299	BLNK	missense_variant	0.005266	likely_benign&benign	0.070
+chr10:96230820_C/T	rs148249957	BLNK	missense_variant	0.0003145	uncertain_significance	27.2
+chr10:122415920_G/A	rs142473166	PLEKHA1	missense_variant	0.001676		21.7
+chr10:122429657_G/A	rs765456729	PLEKHA1	missense_variant	1.76e-05		6.662
+chr10:122429681_A/G	rs1045216	PLEKHA1	missense_variant	0.6048		15.42
+chr11:60173027_C/T	rs138650483	MS4A6A	missense_variant	0.003768		26.2
+chr11:60173126_T/A	rs7232	MS4A6A	missense_variant	0.3769		0.025
+chr11:60181585_A/G	rs61742546	MS4A6A	missense_variant	0.02568		17.82
+chr11:85990264_T/C	rs117411388	PICALM	missense_variant	0.001063		23.8
+chr11:85996853_C/G	rs34013602	PICALM	missense_variant	0.002505		19.15
+chr11:86068679_G/C	rs146840505	PICALM	missense_variant	0.002548		22.0
+chr12:40232345_G/C	rs200926937	LRRK2	missense_variant	3.517e-05	uncertain_significance	10.94
+chr12:40235634_T/C	rs33995463	LRRK2	missense_variant	0.002246	likely_benign&uncertain_significance	27.4
+chr12:40263898_C/G	rs7308720	LRRK2	missense_variant	0.07203	benign	23.2
+chr12:40278187_A/G	rs10878307	LRRK2	missense_variant	0.07198	benign	10.36
+chr12:40278190_A/G	.	LRRK2	missense_variant			20.9
+chr12:40293624_G/C	rs58559150	LRRK2	missense_variant	0.0001501	uncertain_significance	16.31
+chr12:40309109_G/A	rs7133914	LRRK2	missense_variant	0.07271	benign	23.1
+chr12:40313976_G/A	rs35507033	LRRK2	missense_variant	0.006884	benign/likely_benign	22.0
+chr12:40314059_C/T	rs33958906	LRRK2	missense_variant	0.03238	benign	24.7
+chr12:40320097_T/C	rs35303786	LRRK2	missense_variant	0.01532	benign/likely_benign&benign	21.8
+chr12:40320099_T/A	rs11564148	LRRK2	missense_variant	0.3044	benign	10.31
+chr12:40346884_A/G	rs33995883	LRRK2	missense_variant	0.01945	benign	24.0
+chr12:40364850_T/C	rs3761863	LRRK2	missense_variant	0.6651	benign	0.481
+chr12:40364987_C/G	.	LRRK2	missense_variant			23.3
+chr12:113293011_C/T	rs144613390	TPCN1	missense_variant	0.007538	benign	23.0
+chr14:52864465_G/A	rs79804050	FERMT2	missense_variant	0.003791		23.7
+chr14:52893417_G/T	rs199890407	FERMT2	missense_variant	0.0004622		23.1
+chr14:92456438_G/A	rs62623445	SLC24A4	missense_variant	0.02961		10.57
+chr14:92492178_A/C	rs45587635	SLC24A4	missense_variant	0.04704		21.1
+chr14:92513977_G/C	rs980952225	RIN3	splice_donor_variant	0		33
+chr14:92651693_A/G	rs3829947	RIN3	missense_variant	0.5622		0.263
+chr14:92651884_C/T	rs117068593	RIN3	missense_variant	0.1821		24.4
+chr14:92652229_A/G	rs753516012	RIN3	missense_variant	3.582e-05		24.5
+chr14:92652323_C/T	rs3742717	RIN3	missense_variant	0.1768		3.607
+chr14:92652445_A/C	rs139248637	RIN3	missense_variant	0.003918		6.461
+chr14:92652887_G/C	rs12434929	RIN3	missense_variant	0.00814		9.884
+chr14:92676516_T/C	rs147042536	RIN3	missense_variant	0.00685		28.9
+chr14:92688192_TGGC/T	rs68153141	RIN3	inframe_deletion	0.646		
+chr15:50725227_C/A	.	SPPL2A	missense_variant			23.5
+chr15:58771460_G/A	rs61729219	MINDY2	missense_variant	0.0008132		13.20
+chr15:58772128_A/G	rs202153129	MINDY2	missense_variant	0.0001945		21.4
+chr15:58772221_C/T	rs116990761	MINDY2	missense_variant	0.003433		22.4
+chr15:63277703_C/T	rs117618017	APH1B	missense_variant	0.1325		16.39
+chr15:63302461_G/T	rs61751105	APH1B	missense_variant	0.01517		23.7
+chr15:63305658_T/G	rs1047552	APH1B	missense_variant	0.02973		16.77
+chr15:64136360_G/A	rs1802376	SNX1	missense_variant	0.02057		28.9
+chr15:64445109_G/GC	.	TRIP4	splice_donor_variant			
+chr15:78932385_T/C	rs78155742	CTSH	missense_variant	0.02596		23.4
+chr15:78944905_C/G	rs1036938	CTSH	missense_variant	0.6979		9.385
+chr15:78944951_C/T	rs2289702	CTSH	missense_variant	0.09939		26.8
+chr16:30009488_A/G	rs1234575677	DOC2A	missense_variant	0		25.3
+chr16:30010081_C/T	rs1140239	DOC2A	missense_variant	0.3874	benign	9.984
+chr16:31111376_G/A	rs746453488	BCKDK	missense_variant	0		26.2
+chr16:31111999_A/T	rs142542453	BCKDK	missense_variant	0.0005461	benign&conflicting_interpretations_of_pathogenicity&uncertain_significance	25.6
+chr16:31184277_G/A	rs61732970	FUS	missense_variant	0.000167	benign&likely_benign	17.90
+chr16:31185061_C/T	rs267606832	FUS	missense_variant	5.611e-05	pathogenic	23.0
+chr16:70654556_G/C	rs139133476	IL34	missense_variant	0.00183	likely_benign	19.33
+chr16:70657086_G/C	rs8046424	IL34	missense_variant	0.4855		9.370
+chr16:70660097_C/A	rs4985556	IL34	stop_gained	0.1121		36
+chr16:81786071_A/T	rs61749044	PLCG2	missense_variant	0.01456	benign	24.3
+chr16:81883307_A/G	rs11548656	PLCG2	missense_variant	0.03567	benign	21.9
+chr16:81889176_A/T	rs45443101	PLCG2	missense_variant	0.03918	benign	3.685
+chr16:81889208_C/T	rs1143687	PLCG2	missense_variant	0.06521	benign	26.2
+chr16:81905484_T/C	rs187956469	PLCG2	missense_variant	0.004762	benign	24.1
+chr16:81908423_C/G	rs72824905	PLCG2	missense_variant	0.008764	benign&likely_benign	9.775
+chr16:81912673_A/G	rs150833842	PLCG2	missense_variant	0.003474	benign	10.08
+chr16:81923585_C/T	rs1487353613	PLCG2	missense_variant	0		23.0
+chr16:81936218_C/G	rs377084065	PLCG2	missense_variant	0		16.57
+chr16:90058463_G/T	rs7206111	PRDM7	missense_variant	0.05664		15.94
+chr16:90060451_C/T	rs201936074	PRDM7	missense_variant	0.001018		0.517
+chr16:90060585_A/G	rs150196149	PRDM7	missense_variant	0.06629		24.8
+chr16:90063728_C/T	rs2078478	PRDM7	missense_variant	0.1415		2.003
+chr16:90074947_A/C	rs12925933	PRDM7	missense_variant	0.6719		18.63
+chr16:90075897_C/CT	.	PRDM7	frameshift_variant			
+chr17:1734198_G/A	rs143022530	WDR81	missense_variant	0.002342	benign/likely_benign	8.327
+chr17:18119146_GGCTACGGCC/G	rs876657898	MYO15A	inframe_deletion	0.0008794		
+chr17:18119623_G/C	rs183969516	MYO15A	missense_variant	0.00233	uncertain_significance	6.488
+chr17:18119911_C/A	rs200382813	MYO15A	missense_variant	0.002326	uncertain_significance	13.58
+chr17:18120185_G/A	rs145292219	MYO15A	missense_variant	0.005022	benign/likely_benign&likely_benign	21.3
+chr17:18120583_G/A	rs2955365	MYO15A	missense_variant	0.3311	benign	12.50
+chr17:18121038_G/T	rs79760961	MYO15A	missense_variant	0.0003256	benign&benign/likely_benign	9.359
+chr17:18124520_G/A	rs202148411	MYO15A	missense_variant	0.0005597	uncertain_significance&likely_benign	10.48
+chr17:18143584_T/C	rs854777	MYO15A	missense_variant	0.7488	benign	5.521
+chr17:18143875_G/A	rs2272571	MYO15A	missense_variant	0.1118	benign	4.995
+chr17:18148792_G/A	rs114274755	MYO15A	missense_variant	0.003231	benign/likely_benign	24.9
+chr17:18150460_G/A	rs369074496	MYO15A	missense_variant	0.0001236		25.0
+chr17:18153853_A/T	rs712270	MYO15A	missense_variant	0.4117	benign	23.7
+chr17:18155154_G/A	rs140140417	MYO15A	missense_variant	0.002119	benign/likely_benign&uncertain_significance	11.37
+chr17:18159308_G/C	rs182977390	MYO15A	missense_variant	7.946e-05		26.5
+chr17:18161408_C/T	rs140029076	MYO15A	missense_variant	0.008444	conflicting_interpretations_of_pathogenicity&benign/likely_benign	23.0
+chr17:44352471_G/C	rs25647	GRN	missense_variant	0.0002902	not_provided&benign&benign/likely_benign	1.759
+chr17:45983757_C/T	rs73314997	MAPT	missense_variant	0.001387	benign	14.35
+chr17:49216544_G/A	rs2233369	ABI3	missense_variant	0.05395		23.1
+chr17:49219935_T/C	rs616338	ABI3	missense_variant	0.99		14.18
+chr17:63477326_G/T	.	ACE	stop_gained			36
+chr17:63480412_A/G	rs3730025	ACE	missense_variant	0.01542	benign	26.6
+chr17:63481590_C/T	rs35141294	ACE	missense_variant	0.0002736	benign	27.7
+chr17:63481680_G/A	rs56394458	ACE	missense_variant	0.01021	benign	28.0
+chr17:63482672_G/A	rs35865660	ACE	missense_variant	0.0001498	benign	0.192
+chr17:63483140_C/G	rs28730839	ACE	missense_variant	0.0007384	uncertain_significance	16.10
+chr17:63483485_C/G	rs148943954	ACE	missense_variant	0.0001407	uncertain_significance	24.2
+chr17:63488723_C/T	rs373970727	ACE	missense_variant	1.758e-05		6.409
+chr19:1042810_A/G	rs3764645	ABCA7	missense_variant	0.474		8.138
+chr19:1043104_G/A	rs72973581	ABCA7	missense_variant	0.0623		0.499
+chr19:1043749_A/G	rs3752232	ABCA7	missense_variant	0.04027		7.814
+chr19:1044637_A/AT	.	ABCA7	frameshift_variant			
+chr19:1045174_G/A	rs3752233	ABCA7	missense_variant	0.04072		22.8
+chr19:1046240_C/G	rs141428162	ABCA7	missense_variant	0.0004519		24.1
+chr19:1046286_G/A	.	ABCA7	missense_variant			25.8
+chr19:1047538_A/C	rs3752239	ABCA7	missense_variant	0.03956		23.3
+chr19:1049344_C/T	rs1456262672	ABCA7	missense_variant	9.009e-06		8.475
+chr19:1050997_G/A	rs74176364	ABCA7	missense_variant	0.007906		22.2
+chr19:1055192_G/A	rs3745842	ABCA7	missense_variant	0.43		0.003
+chr19:1056421_C/T	rs767723631	ABCA7	missense_variant	1.775e-05		7.560
+chr19:1056493_G/C	rs3752246	ABCA7	missense_variant	0.8303		2.138
+chr19:1058177_A/G	rs4147918	ABCA7	missense_variant	0.04129		4.715
+chr19:1065019_G/T	rs4147934	ABCA7	missense_variant	0.7439		11.76
+chr19:1065306_G/A	rs139706726	ABCA7	missense_variant	0.0003575		22.2
+chr19:44908684_T/C	rs429358	APOE	missense_variant	0.1501	risk_factor&uncertain_significance&other&_risk_factor&association&pathogenic&likely_pathogenic&drug_response	16.65
+chr19:44908822_C/T	rs7412	APOE	missense_variant	0.07515	other&_risk_factor&drug_response&pathogenic&benign	26.0
+chr19:49958478_G/C	rs57682421	SIGLEC11	missense_variant	0.0003151	benign	14.59
+chr19:49959041_G/C	rs62113133	SIGLEC11	missense_variant	0.2254	benign	11.19
+chr19:49960404_C/G	rs144427989	SIGLEC11	missense_variant	0.006253		16.98
+chr19:49960413_T/G	rs77553517	SIGLEC11	missense_variant	0.1851	benign	2.693
+chr19:49960725_T/G	rs9676436	SIGLEC11	missense_variant	0.3497		1.623
+chr19:49960819_C/T	rs149081611	SIGLEC11	missense_variant	0.002811		1.159
+chr19:49960914_C/G	rs62113159	SIGLEC11	missense_variant	0.05643		5.963
+chr19:51225221_C/T	rs12459419	CD33	missense_variant	0.3204		14.75
+chr19:51225385_A/G	rs2455069	CD33	missense_variant	0.4221		0.002
+chr19:51225847_CCCGG/C	rs201074739	CD33	frameshift_variant	0.0244		
+chr19:51235662_G/A	rs35112940	CD33	missense_variant	0.212		3.153
+chr19:51235665_T/C	rs61736475	CD33	missense_variant	0.02141		0.028
+chr19:51235678_T/C	rs273621	CD33	splice_donor_variant	0.0003154		26.4
+chr20:56437405_G/A	rs35360819	CASS4	missense_variant	0.01331		6.874
+chr20:56452759_G/T	rs148921681	CASS4	missense_variant	0.002928	likely_benign	15.31
+chr20:56458364_C/T	rs35031530	CASS4	missense_variant	0.004545		1.345
+chr20:56458410_A/G	rs137992530	CASS4	missense_variant	0.0001143		25.2
+chr20:63741471_T/A	rs150827036	SLC2A4RG	missense_variant	0.0006966		8.283
+chr20:63742053_G/T	rs1271747301	SLC2A4RG	missense_variant	0		26.7
+chr20:63742214_C/T	rs758701260	SLC2A4RG	missense_variant	6.392e-05		29.6
+chr20:63742354_G/T	rs8957	SLC2A4RG	missense_variant	0.7334		17.10
+chr21:26051070_A/G	rs145081708	APP	missense_variant	9.672e-05	uncertain_significance&benign/likely_benign&benign	24.7
+chr21:26838138_T/C	rs71317487	ADAMTS1	missense_variant	0.003827	likely_benign	23.1
+chr21:26838535_C/T	rs56251528	ADAMTS1	missense_variant	0.06041		16.41
+chr21:26844276_C/G	rs428785	ADAMTS1	missense_variant	0.7716		10.68
+chr21:26844740_C/T	rs61750213	ADAMTS1	missense_variant	0.01541		5.839
